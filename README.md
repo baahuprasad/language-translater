@@ -1,7 +1,8 @@
 # language-translater in python
 **Requirements**
-Tkinter Library
+Tkinter Library &
 Translate Library
+
 **Usage**
 There is only one file translator_software.py which can be run directly through terminal.
 
